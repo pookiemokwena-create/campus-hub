@@ -1,0 +1,6 @@
+{
+  "name": "Campus Hub",
+  "description": "A centralized communication hub bridging students, lecturers, and campus administrators with targeted announcements, Q&A discussions, and event schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
