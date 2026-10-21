@@ -44,4 +44,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Please fo
 
 ## License
 
-No license has been chosen yet. Until one is added, all rights are reserved by the author.
+This project is licensed under the [MIT License](LICENSE).
