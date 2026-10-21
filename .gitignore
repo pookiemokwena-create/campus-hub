@@ -16,3 +16,11 @@
 local.properties
 .env
 debug.keystore
+
+# Generated motion-comic media (rebuild with anime/render.py)
+/anime/assets/
+/anime/audio/
+/anime/exports/*
+!/anime/exports/after-the-last-bell-episode-01.mp4
+!/anime/exports/episode-01.srt
+/anime/work/
